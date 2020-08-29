@@ -5,10 +5,10 @@ It is going to be a wealth manager, expense tracker, and a budgeting tool. It is
 specifically designed for my personal use case. If the solution works for you please
 note that it is through sheer luck. It may not work in future for you.
 
-I loved Kubera[^kubera], I really liked it, but it met only part of my requirement, what
+I loved Kubera [^kubera], I really liked it, but it met only part of my requirement, what
 I wanted was an app that combined both wealth tracking and an expense manager. While
 I came across many wonderful solutions for expense tracking too and currently use
-Home Budget[^home_budget] on my phone to track my expenses, but again want a single application,
+Home Budget [^home_budget] on my phone to track my expenses, but again want a single application,
 that will eventually work across desktop, web and mobile.
 
 Here are the questions I want to answer in a single application.
@@ -34,5 +34,5 @@ The following are the information that is stored online that is NOT client encry
    account holder. For obvious reasons these cannot be encrypted.
 
 
-[kubera]: https://app.kubera.com
-[home_budget]: http://www.anishu.com/homebudget.html
+[^kubera]: https://app.kubera.com
+[^home_budget]: http://www.anishu.com/homebudget.html
