@@ -39,4 +39,7 @@ def create_app(test_config=None) -> flask.Flask:
             "data": "Hello, World",
         }
 
+    from . import db
+    db.init_app(app)
+
     return app
